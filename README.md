@@ -9,6 +9,7 @@ I have created one instance is a bastion server named BastionServer in a public 
 
 ![task1](https://github.com/Cloud-Xplorer08/Security-Network-Hardening/assets/71820244/d4331294-7d6c-4123-a291-f3d435039a0d)
 
+
 ![task1b](https://github.com/Cloud-Xplorer08/Security-Network-Hardening/assets/71820244/e70e059a-01f2-4148-86bb-90f542a21d40)
 
 ## Task 2: View EC2 instances and add tags
@@ -20,7 +21,9 @@ In this task, we created an assessment target (a collection of the AWS resources
 
 ![assesment target created](https://github.com/Cloud-Xplorer08/Security-Network-Hardening/assets/71820244/3f3c0efe-72d9-4fe8-829a-2cd29e2909e0)
 
+
 ![assesment template created](https://github.com/Cloud-Xplorer08/Security-Network-Hardening/assets/71820244/e848270a-1b57-4c75-a4ca-30794aea170c)
+
 
 ![assesment run completed](https://github.com/Cloud-Xplorer08/Security-Network-Hardening/assets/71820244/949ab989-693d-4a62-bd32-1242ba3332aa)
 
